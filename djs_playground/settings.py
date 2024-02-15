@@ -153,3 +153,5 @@ SUMMERNOTE_CONFIG = {
     },
     'lazy': False,
 }
+
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
